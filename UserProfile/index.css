@@ -1,0 +1,26 @@
+.user-card-container{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.profile-pic{
+    height: 100px;
+}
+.user-name{
+    font-size: 20px;
+}
+.user-designation{
+    font-size: 14px;
+}
+.user-details-container{
+    padding-left: 10px;
+}
+
+.delete-button{
+    height:40px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.delete-img{
+    height: 20px;
+}

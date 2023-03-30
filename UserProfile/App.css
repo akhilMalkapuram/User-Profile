@@ -1,0 +1,13 @@
+.app-container{
+    background-color: gray;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    text-align: center;
+}
+.input{
+    width: 200px;
+    align-self: center;
+}
